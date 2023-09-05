@@ -3,7 +3,7 @@
 ![pic](pic/u18.png)<br><br><br>
 Driver version : v5.14.2  
 <br>
-0bda:c811 is ok, too. (rtl8811cu)
+0bda:c811 is ok, too. (rtl8811cu)  
 <br>
 make  
 sudo make install  
