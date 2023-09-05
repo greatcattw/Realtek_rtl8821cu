@@ -7,6 +7,6 @@ sudo make install
 <br>
 or  
 <br>
-sudo cp 8812u.ko /lib/modules/5.4.0-84-generic/kernel/drivers/net/wireless/
+sudo cp 8812u.ko /lib/modules/5.4.0-84-generic/kernel/drivers/net/wireless/  
 sudo depmod
   
