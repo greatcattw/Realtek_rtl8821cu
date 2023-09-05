@@ -2,3 +2,5 @@
 ## This package is ok with ubuntu 18
 ![pic](pic/u18.png)<br><br><br>
 v5.14.2  
+make  
+sudo make install  
