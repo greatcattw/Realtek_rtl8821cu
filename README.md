@@ -1,7 +1,10 @@
 # Realtek_rtl8821cu
 ## This package is ok with ubuntu 18
 ![pic](pic/u18.png)<br><br><br>
-v5.14.2  
+Driver version : v5.14.2  
+<br>
+0bda:c811 is ok, too. (rtl8811cu)
+<br>
 make  
 sudo make install  
 <br>
